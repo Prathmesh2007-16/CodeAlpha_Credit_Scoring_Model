@@ -1,0 +1,4 @@
+Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Duration,Purpose,Default probability,Credit score (300-850),Decision
+45,male,3,own,rich,rich,1500,10,car,0.0,850,Low risk
+35,female,2,own,little,moderate,4000,24,furniture/equipment,0.994,303,High risk
+23,male,1,rent,little,little,9000,48,business,1.0,300,High risk

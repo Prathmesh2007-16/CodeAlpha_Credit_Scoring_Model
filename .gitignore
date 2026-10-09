@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+credit_model.joblib
+.vscode/
+.DS_Store
+Thumbs.db

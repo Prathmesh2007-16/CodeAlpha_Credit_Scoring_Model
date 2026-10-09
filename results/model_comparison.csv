@@ -1,0 +1,5 @@
+,CV ROC-AUC,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Logistic Regression,0.978,0.965,0.967,0.9565,0.9617,0.9826
+Decision Tree,0.9833,0.965,0.9381,0.9891,0.963,0.9929
+Random Forest,0.9948,0.98,0.9889,0.9674,0.978,0.9978
+Gradient Boosting,0.9986,1.0,1.0,1.0,1.0,1.0
